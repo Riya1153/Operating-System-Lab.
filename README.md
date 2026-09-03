@@ -24,3 +24,16 @@ SJF | Comparison with FCFS
 ### Contents
 - Python Source Code
 - Lab Report
+
+  _______________________________________________
+
+
+## Lab 03
+
+### Experiment Title
+Preemptive SJF comparison with Non-Preemptive SJF
+
+### Contents
+- Python Source Code
+- Lab Report
+
